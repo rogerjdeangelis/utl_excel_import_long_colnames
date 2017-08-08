@@ -1,4 +1,4 @@
-# utl_import_long_conames
+# utl_import_long_colnames
 Import excel tables/sheets when column names are greater than 32 characters
 
     ```  Importing excel when column namesa are over 32 characters  ```
